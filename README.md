@@ -1,6 +1,6 @@
 # Static-Travel-Website
 
-This is a static travel website build using HTML, CSS and Bootstrap
+This is a responsive static travel website build using HTML, CSS and Bootstrap
 
 To run in local =>
 
